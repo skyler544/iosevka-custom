@@ -1,0 +1,23 @@
+[buildPlans.iosevka-custom]
+family = "Iosevka Custom"
+spacing = "fixed"
+serifs = "sans"
+no-ligation = true
+
+[buildPlans.iosevka-custom.variants.design]
+f = "flat-hook"
+g = "single-storey-serifless"
+i = "tailed-serifed"
+j = "serifed"
+k = "straight-serifless"
+l = "tailed-serifed"
+t = "flat-hook"
+y = "straight-turn"
+one = "base"
+two = "curly-neck"
+four = "semi-open"
+six = "closed-contour"
+nine = "closed-contour"
+tilde = "low"
+percent = "rings-continuous-slash"
+ascii-single-quote = "straight"
