@@ -1,6 +1,7 @@
 [buildPlans.iosevka-custom]
 family = "Iosevka Custom"
-spacing = "fixed"
+spacing = "normal"
+# spacing = "fixed"
 serifs = "sans"
 no-ligation = true
 
@@ -21,3 +22,4 @@ nine = "closed-contour"
 tilde = "low"
 percent = "rings-continuous-slash"
 ascii-single-quote = "straight"
+asterisk = "penta-low"
